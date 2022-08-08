@@ -1,0 +1,43 @@
+{
+  "name": "neon-color-themes-by-sp",
+  "displayName": "Neon Color themes by SP",
+  "description": "Neon color themes",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Neon Blue theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Neon Blue theme-color-theme.json"
+      },
+      {
+        "label": "Neon Green theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Neon Green theme-color-theme.json"
+      },
+      {
+        "label": "Neon Red theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Neon Red theme-color-theme.json"
+      },
+      {
+        "label": "Neon Purple theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Neon Purple theme-color-theme.json"
+      }
+    ]
+  },
+  "publisher": "SivaprasadNK",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/sivaprasadnk/NeonColorThemes-VSCode.git"
+
+  }
+
+}
